@@ -27,6 +27,5 @@ At first, when we had a brief look at the dataset, we realize that we do not hav
 The result after training the model is the follwing one: 
 ![](imgs/pred_0.jpg) 
 ![](imgs/pred_1.jpg) 
-[foto de ambas pruebas, las que le mandé a SARA]
 
 So this is it! Here we have our model!
